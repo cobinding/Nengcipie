@@ -4,4 +4,4 @@
 
 
 ### [data conceptual modeling] 23년 4월 16일 (작성자: 추세빈)
-<img width="500" alt="스크린샷 2023-04-17 오후 5 06 47" src="https://user-images.githubusercontent.com/102461290/232424000-b34bd266-bcb0-4bce-9612-873108304aea.png">
+<img width="600" alt="conceptual_data_modeling" src="https://user-images.githubusercontent.com/102461290/232426942-91e229b6-a62c-4708-be0b-b33b64a2be24.png">

@@ -8,3 +8,7 @@
 
 ### [data logical modeling] 23년 4월 21일 (작성자: 추세빈)
 <img width="700" alt="냉시피_논리적모델링" src="https://user-images.githubusercontent.com/102461290/233581842-fb8b4870-eb7d-4ec9-9072-29f7727df749.png">
+
+#### 논의할 것
+1. FK가 너무 많아서 융통성있게 줄여야 할 듯하다.
+2. recipies_name / ingredient_name 넣?말? id만으로 구분하면 안넣어도 된다.

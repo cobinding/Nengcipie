@@ -18,6 +18,6 @@
 ### data table schema 수정 23년 5월 3일
    name 추가   
    user->member 변경   
-   API적인 고민 & 레시피, 유저 레시피, 재료 간의 관계에 대한 고민을 하다 보니까 추가된 점이 꽤 있다. 
+   API적인 고민 & 레시피, 유저 레시피, 재료 간의 관계에 대한 고민을 하다 보니까 추가된 점들이 있다. 
    <img width="500" alt="냉db 스키마" src="https://user-images.githubusercontent.com/102461290/235827140-c6b269cb-163b-436f-91fc-0885f2e7f80f.png">
 

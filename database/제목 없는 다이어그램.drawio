@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-05-03T02:59:01.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tWRzH9w4vAbVSvXd8OxM" version="21.2.6" type="github">
+  <diagram name="페이지-1" id="vdhRnKXHgqj8t0xOMyfd">
+    <mxGraphModel dx="2136" dy="850" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-1" value="회원" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-149" y="302" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="GvzHxYhXGuz93DnO3ShN-2" target="GvzHxYhXGuz93DnO3ShN-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-2" value="레시피" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="879" y="477" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-4" value="회원 레시피" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="127" y="474" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="GvzHxYhXGuz93DnO3ShN-5" target="GvzHxYhXGuz93DnO3ShN-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-5" value="재료" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="879" y="132" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-52" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" parent="1" source="GvzHxYhXGuz93DnO3ShN-6" target="GvzHxYhXGuz93DnO3ShN-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-6" value="회원 재료" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="136" y="135" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-7" value="아이디" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-248" y="212" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-8" value="이름" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-248" y="389" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-9" value="비밀번호" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-248" y="302" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-10" value="재료명" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="832" y="26" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-11" value="재료 id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="930" y="26" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-12" value="레시피 id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="790" y="582" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-13" value="레시피명" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="879" y="582" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-14" value="레시피 설명" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="968" y="582" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-15" value="회원레시피 id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="73" y="582" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-17" value="레시피 id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="172" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="GvzHxYhXGuz93DnO3ShN-18" target="GvzHxYhXGuz93DnO3ShN-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-18" value="레시피의&amp;nbsp;&lt;br&gt;종류" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="461.5" y="463.5" width="107" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-38" value="회원 id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="35" y="33" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-41" value="재료 id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="137" y="33" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="GvzHxYhXGuz93DnO3ShN-42" target="GvzHxYhXGuz93DnO3ShN-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-42" value="재료의&lt;br&gt;종류" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="461.5" y="123" width="107" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="GvzHxYhXGuz93DnO3ShN-51" target="GvzHxYhXGuz93DnO3ShN-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-51" value="회원 재료 기반 레시피 제공" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="459" y="287.25" width="122.5" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GvzHxYhXGuz93DnO3ShN-55" value="냉시피 데이터 개념적 모델링&lt;br&gt;작성자: 추세빈&lt;br&gt;FK는 빨간색으로 표시하였습니다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-277" y="726" width="232" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zh9GvEA1YX90EsXkoWM8-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331.00000000000546" y="77" as="sourcePoint" />
+            <mxPoint x="331.00000000000546" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zh9GvEA1YX90EsXkoWM8-2" value="재료 수량" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="238" y="33" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TtWnJAGZ7QAJRwM86228-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;재료 id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="833" y="682" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TtWnJAGZ7QAJRwM86228-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;재료 용량&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="684" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

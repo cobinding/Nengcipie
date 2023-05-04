@@ -25,4 +25,4 @@
    변수명 점검, 양식 통일
    db 변수 작성은 스네이크 표기법으로 한다.
 
-<img width="1512" alt="냉da sheme(5:4)" src="https://user-images.githubusercontent.com/102461290/236084084-5e99147f-5da4-4dcb-bbe8-540c973ca014.png">
+<img width="500" alt="냉da sheme(5:4)" src="https://user-images.githubusercontent.com/102461290/236084084-5e99147f-5da4-4dcb-bbe8-540c973ca014.png">
